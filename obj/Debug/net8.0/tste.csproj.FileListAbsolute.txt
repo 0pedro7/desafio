@@ -1,0 +1,14 @@
+C:\Users\jessyca.coelho\Desktop\pedro\prog\tste\bin\Debug\net8.0\tste.exe
+C:\Users\jessyca.coelho\Desktop\pedro\prog\tste\bin\Debug\net8.0\tste.deps.json
+C:\Users\jessyca.coelho\Desktop\pedro\prog\tste\bin\Debug\net8.0\tste.runtimeconfig.json
+C:\Users\jessyca.coelho\Desktop\pedro\prog\tste\bin\Debug\net8.0\tste.dll
+C:\Users\jessyca.coelho\Desktop\pedro\prog\tste\bin\Debug\net8.0\tste.pdb
+C:\Users\jessyca.coelho\Desktop\pedro\prog\tste\obj\Debug\net8.0\tste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessyca.coelho\Desktop\pedro\prog\tste\obj\Debug\net8.0\tste.AssemblyInfoInputs.cache
+C:\Users\jessyca.coelho\Desktop\pedro\prog\tste\obj\Debug\net8.0\tste.AssemblyInfo.cs
+C:\Users\jessyca.coelho\Desktop\pedro\prog\tste\obj\Debug\net8.0\tste.csproj.CoreCompileInputs.cache
+C:\Users\jessyca.coelho\Desktop\pedro\prog\tste\obj\Debug\net8.0\tste.dll
+C:\Users\jessyca.coelho\Desktop\pedro\prog\tste\obj\Debug\net8.0\refint\tste.dll
+C:\Users\jessyca.coelho\Desktop\pedro\prog\tste\obj\Debug\net8.0\tste.pdb
+C:\Users\jessyca.coelho\Desktop\pedro\prog\tste\obj\Debug\net8.0\tste.genruntimeconfig.cache
+C:\Users\jessyca.coelho\Desktop\pedro\prog\tste\obj\Debug\net8.0\ref\tste.dll
